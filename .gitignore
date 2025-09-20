@@ -1,0 +1,14 @@
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_save
+*.ipynb_save.*
+
+# Datasets
+datasets/
+
+# Generated
+csv/
+npys/
+saved_models/
+tuner_logs/
+emotion_cnn_best.keras
